@@ -1,0 +1,9 @@
+#Create new environment 
+$ python3 -m venv my_kivy_project
+
+#Activate it 
+$ source bin/activate
+
+# pip install Kivy 
+$ python -m pip install kivy
+
